@@ -1,10 +1,10 @@
 class config:
     BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    APP_ID = "20937420"
+    API_HASH = "09d7f6744feb17759304df65666961da"
     DATABASE_URL = ""
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/updatechannal123"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
